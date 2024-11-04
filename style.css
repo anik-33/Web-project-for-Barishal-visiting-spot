@@ -168,7 +168,7 @@ body {
 
 .leftsection {
 
-    font-size: 2.4rem;
+    font-size: 2rem;
     margin-top: 50px;
 
 }
@@ -180,4 +180,8 @@ body {
 .rightsection img {
     width: 100%;
     margin: 50px 0px;
+}
+hr{
+    background-color: #a7a4c0;
+    height: 7px;
 }
